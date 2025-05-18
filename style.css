@@ -24,7 +24,7 @@ body {
     height: 100vh;
     background-color: var(--bg-primary);
     color: var(--text-primary);
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .app-container {
